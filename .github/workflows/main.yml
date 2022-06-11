@@ -21,6 +21,6 @@ jobs:
         env:
           HUGO_VERSION: 0.98.0
           HUGO_EXTENDED: true
-          TARGET_REPO: Seht78/Seht78.github.io
+          TARGET_REPO: https://github.com/Seht78/Seht78.github.io
           TARGET_BRANCH: gh-pages
           TOKEN: ${{ secrets.HUGO_SECRET_TOKEN }}
