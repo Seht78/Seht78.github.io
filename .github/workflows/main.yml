@@ -19,8 +19,8 @@ jobs:
           submodules: recursive
       - uses: benmatselby/hugo-deploy-gh-pages@master
         env:
-          HUGO_VERSION: 0.99.0
+          HUGO_VERSION: 0.98.0
           HUGO_EXTENDED: true
-          TARGET_REPO: mmasquelin/mmasquelin.github.io
+          TARGET_REPO: Seht78/Seht78.github.io
           TARGET_BRANCH: gh-pages
           TOKEN: ${{ secrets.HUGO_SECRET_TOKEN }}
