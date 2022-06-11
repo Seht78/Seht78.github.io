@@ -1,0 +1,21 @@
+{{ define "main" }}
+{{ .Title }}
+{{ with .Site.Params.authorImage }}
+    <div >
+        <img class="img" src="{{ . }}" />
+    </div>
+{{ end }}
+
+{{ .Site.Params.Author }}
+
+| {{ .PublishDate.Format "January 2, 2006"}} |
+
+{{ .ReadingTime }} {{ if eq .ReadingTime 1 }} Minute {{ else }} Minutes {{ end }}</p>
+
+<br>
+<br>
+
+{{ .Content }}
+{{end}}
+
+
