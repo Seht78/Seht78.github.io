@@ -20,3 +20,9 @@ Après avoir fini les programmes, il a fallu analyser les performances obtenues 
 
 
 <div>
+
+<style>
+    .text{
+	margin-left : 10px;
+    }
+</style>
