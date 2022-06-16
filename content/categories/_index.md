@@ -4,4 +4,4 @@ date: 2022-05-25T14:47:49+02:00
 draft: false
 ---
 
-Salut, ça va ?
+Ici, sont répertoriés mes projets principaux réalisés durant l'année. 
