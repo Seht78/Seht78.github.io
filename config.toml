@@ -43,6 +43,9 @@ pre = "<i class='fab fa-twitter'></i>"
     url = "/categories"
 
 
-
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
 
 

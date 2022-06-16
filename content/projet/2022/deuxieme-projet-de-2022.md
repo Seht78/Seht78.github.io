@@ -7,7 +7,7 @@ description : développement d'algorithme de trie.
 images : "/images/AlgoTri.jpg"
 ---
 
-
+<div class = "text">
 
 Pour un SAE de première année de BUT, nous avons dû programmer plusieurs programmes qui ont un même but : trier une liste d'entiers.
 
@@ -19,3 +19,4 @@ Après avoir fini les programmes, il a fallu analyser les performances obtenues 
 À partir de ça, il nous a été demandé de trier les algorithmes du plus performant au moins performant ce qui a donné : tri a pile, tri a bulle, tri par insertion, tri par sélection, tri à fusion et tri rapide.
 
 
+<div>
