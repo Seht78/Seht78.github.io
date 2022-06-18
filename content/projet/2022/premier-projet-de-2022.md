@@ -23,8 +23,8 @@ Ensuite, à partir de ces couleurs, nous avons mis au point un logo, et pour cel
 
 
 
-Au final, nous avons retenu :
-![image alt text](/images/SiteWeb.png)
+Au final, notre site ressemble à :
+<a href="https://seht78.github.io/SAE/"> ![Site Web](/images/SiteWeb.png) </a>
 
 
 
