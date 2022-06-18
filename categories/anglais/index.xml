@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>anglais on e-Portfolio Julian Debuisson</title>
+    <link>http://Seht78.github.io/categories/anglais/</link>
+    <description>Recent content in anglais on e-Portfolio Julian Debuisson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Wed, 01 Jun 2022 15:30:51 +0200</lastBuildDate><atom:link href="http://Seht78.github.io/categories/anglais/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Algo de trie</title>
+      <link>http://Seht78.github.io/projet/2022/deuxieme-projet-de-2022/</link>
+      <pubDate>Wed, 01 Jun 2022 15:30:51 +0200</pubDate>
+      
+      <guid>http://Seht78.github.io/projet/2022/deuxieme-projet-de-2022/</guid>
+      <description>Algorithme de tri Pour un SAE de première année de BUT, nous avons dû programmer plusieurs programmes qui ont un même but : trier une liste d&amp;rsquo;entiers.
+Ils y avaient plusieurs types d&amp;rsquo;algorithme de tri : le tri par sélection, par insertion, a bulle, a fusion, tri rapide et tri a pile.
+Il a fallu en plus de cela écrit des commentaires en anglais, et que grâce à celle-ci tout le monde puissent comprendre les programmes.</description>
+    </item>
+    
+  </channel>
+</rss>

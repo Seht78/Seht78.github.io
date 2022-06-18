@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>développement on e-Portfolio Julian Debuisson</title>
+    <link>http://Seht78.github.io/categories/d%C3%A9veloppement/</link>
+    <description>Recent content in développement on e-Portfolio Julian Debuisson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Wed, 01 Jun 2022 15:30:51 +0200</lastBuildDate><atom:link href="http://Seht78.github.io/categories/d%C3%A9veloppement/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Algo de trie</title>
+      <link>http://Seht78.github.io/projet/2022/deuxieme-projet-de-2022/</link>
+      <pubDate>Wed, 01 Jun 2022 15:30:51 +0200</pubDate>
+      
+      <guid>http://Seht78.github.io/projet/2022/deuxieme-projet-de-2022/</guid>
+      <description>Algorithme de tri Pour un SAE de première année de BUT, nous avons dû programmer plusieurs programmes qui ont un même but : trier une liste d&amp;rsquo;entiers.
+Ils y avaient plusieurs types d&amp;rsquo;algorithme de tri : le tri par sélection, par insertion, a bulle, a fusion, tri rapide et tri a pile.
+Il a fallu en plus de cela écrit des commentaires en anglais, et que grâce à celle-ci tout le monde puissent comprendre les programmes.</description>
+    </item>
+    
+    <item>
+      <title>logiciel de vente</title>
+      <link>http://Seht78.github.io/projet/2022/quatrieme-projet-de-2022/</link>
+      <pubDate>Wed, 01 Jun 2022 15:30:51 +0200</pubDate>
+      
+      <guid>http://Seht78.github.io/projet/2022/quatrieme-projet-de-2022/</guid>
+      <description>Nous avons créé par groupe de 4, un logiciel de vente. Avec deux types d&amp;rsquo;article, une gestion de client (entreprise et particulier), des commandes, etc&amp;hellip;
+Ce logiciel n&amp;rsquo;est pas opérationnel : il est impossible de faire des commandes (avec interface, on peut sur console.), impossible de valider ses commandes et il n&amp;rsquo;est pas connecté (il ne marche qu&amp;rsquo;en local.).
+De plus, il a fallu faire plusieurs fiches de GPO : une note de cadrage, une analyse du contexte, un tableau de répartition des tâches, un planning prévisionnel sous gantt project, etc&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Mini jeu</title>
+      <link>http://Seht78.github.io/projet/2022/troisieme-projet-de-2022/</link>
+      <pubDate>Wed, 01 Jun 2022 15:30:51 +0200</pubDate>
+      
+      <guid>http://Seht78.github.io/projet/2022/troisieme-projet-de-2022/</guid>
+      <description>Durant cette SAE, nous avons du créer plusieurs mini-jeux : le jeu des allumettes, le jeu de la chasse au trésors, le jeu du juniper green, le jeu du mémory et le jeu du nombre mystere. ils nous a était demandais, en plus des mini-jeux, de créer un menu pour choisir le jeu désiré et des commenté le code.</description>
+    </item>
+    
+  </channel>
+</rss>

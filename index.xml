@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Content on e-Portfolio Julian Debuisson</title>
+    <link>http://Seht78.github.io/</link>
+    <description>Recent content in Content on e-Portfolio Julian Debuisson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Wed, 25 May 2022 14:47:49 +0200</lastBuildDate><atom:link href="http://Seht78.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Algo de trie</title>
+      <link>http://Seht78.github.io/projet/2022/deuxieme-projet-de-2022/</link>
+      <pubDate>Wed, 01 Jun 2022 15:30:51 +0200</pubDate>
+      
+      <guid>http://Seht78.github.io/projet/2022/deuxieme-projet-de-2022/</guid>
+      <description>Algorithme de tri Pour un SAE de première année de BUT, nous avons dû programmer plusieurs programmes qui ont un même but : trier une liste d&amp;rsquo;entiers.
+Ils y avaient plusieurs types d&amp;rsquo;algorithme de tri : le tri par sélection, par insertion, a bulle, a fusion, tri rapide et tri a pile.
+Il a fallu en plus de cela écrit des commentaires en anglais, et que grâce à celle-ci tout le monde puissent comprendre les programmes.</description>
+    </item>
+    
+    <item>
+      <title>logiciel de vente</title>
+      <link>http://Seht78.github.io/projet/2022/quatrieme-projet-de-2022/</link>
+      <pubDate>Wed, 01 Jun 2022 15:30:51 +0200</pubDate>
+      
+      <guid>http://Seht78.github.io/projet/2022/quatrieme-projet-de-2022/</guid>
+      <description>Nous avons créé par groupe de 4, un logiciel de vente. Avec deux types d&amp;rsquo;article, une gestion de client (entreprise et particulier), des commandes, etc&amp;hellip;
+Ce logiciel n&amp;rsquo;est pas opérationnel : il est impossible de faire des commandes (avec interface, on peut sur console.), impossible de valider ses commandes et il n&amp;rsquo;est pas connecté (il ne marche qu&amp;rsquo;en local.).
+De plus, il a fallu faire plusieurs fiches de GPO : une note de cadrage, une analyse du contexte, un tableau de répartition des tâches, un planning prévisionnel sous gantt project, etc&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Mini jeu</title>
+      <link>http://Seht78.github.io/projet/2022/troisieme-projet-de-2022/</link>
+      <pubDate>Wed, 01 Jun 2022 15:30:51 +0200</pubDate>
+      
+      <guid>http://Seht78.github.io/projet/2022/troisieme-projet-de-2022/</guid>
+      <description>Durant cette SAE, nous avons du créer plusieurs mini-jeux : le jeu des allumettes, le jeu de la chasse au trésors, le jeu du juniper green, le jeu du mémory et le jeu du nombre mystere. ils nous a était demandais, en plus des mini-jeux, de créer un menu pour choisir le jeu désiré et des commenté le code.</description>
+    </item>
+    
+    <item>
+      <title>Site Web</title>
+      <link>http://Seht78.github.io/projet/2022/premier-projet-de-2022/</link>
+      <pubDate>Fri, 06 May 2022 15:30:51 +0200</pubDate>
+      
+      <guid>http://Seht78.github.io/projet/2022/premier-projet-de-2022/</guid>
+      <description>Un site web Pour une SAE (situation d&amp;rsquo;apprentissage évaluée), nous avons dû créer une société fictive, nous avons décidé de créer une société qui organise un rassemblement autour de l&amp;rsquo;univers japonais, nous l&amp;rsquo;avons appelé ArtoisManga et créer un site web pour cette société.
+Pour créer cette société et ce site web, nous avons fait une charte graphique, nous avons retenu l&amp;rsquo;idée du orange/blanc/noirs pour représenter cette société :
+Ensuite, à partir de ces couleurs, nous avons mis au point un logo, et pour cela, nous avons eu plusieurs idées : Au final, notre site ressemble à :</description>
+    </item>
+    
+    <item>
+      <title>Mon_deuxieme_article</title>
+      <link>http://Seht78.github.io/blog/mon_deuxieme_article/</link>
+      <pubDate>Fri, 29 Apr 2022 15:36:35 +0200</pubDate>
+      
+      <guid>http://Seht78.github.io/blog/mon_deuxieme_article/</guid>
+      <description>Salut, ceci est mon deuxième article !</description>
+    </item>
+    
+    <item>
+      <title>Mon Premier Article</title>
+      <link>http://Seht78.github.io/blog/mon_premier_article/</link>
+      <pubDate>Fri, 29 Apr 2022 15:23:02 +0200</pubDate>
+      
+      <guid>http://Seht78.github.io/blog/mon_premier_article/</guid>
+      <description>Salut, ceci est mon première article !</description>
+    </item>
+    
+  </channel>
+</rss>
