@@ -8,6 +8,8 @@ images : "/images/SiteWeb.png"
 
 ---
 
+<div class="text">
+
 # Un site web
 
 Pour une SAE (situation d'apprentissage évaluée), nous avons dû créer une société fictive, nous avons décidé de créer une société qui organise un rassemblement autour de l'univers japonais, nous l'avons appelé ArtoisManga et créer un site web pour cette société.
@@ -32,3 +34,4 @@ En plus, de ce site web, nous avons dû expliquer nos choix concernant la socié
 
 Nous concernant, la réponse n'était pas difficile : nous avons choisi un domaine qui nous plaît et qui, en plus, et très peu présent dans notre région. De plus, avec des entrées payantes et des marges sur les stands, notre bénéfice est rapidement fait.
 
+</div>

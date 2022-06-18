@@ -7,6 +7,8 @@ description : développement d'algorithme de trie.
 images : "/images/AlgoTri.jpg"
 ---
 
+<div class="text">
+
 # Algorithme de tri
 
 
@@ -28,3 +30,4 @@ Après avoir fini les programmes, il a fallu analyser les performances obtenues 
 Il a ensuite fallu réaliser une vidéo avec cette analyse et ce tri expliquant l'évolution des performances sur les différentes tailles de listes d'entrées.
 
 
+</div>
